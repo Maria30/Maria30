@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 ![Alpine](https://img.shields.io/badge/-Alpine.js-000?&logo=Alpine.js)
 ![Phaser](https://img.shields.io/badge/-Phaser3-000?&logo=Phaser3)
 
-### Projets
-
-[![](https://img.shields.io/badge/%20BudgEtu-000)](https://budgetu.trv21.mmi-nancy.fr/)
-[![Wordle](https://img.shields.io/badge/%20Wordle-000)](https://kerckhov3u.dut20.mmi-nancy.fr/Wordle/)
-
 <!-- <a href="https://kerckhov3u.dut20.mmi-nancy.fr/"> -->
 <!--   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=maria30&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 <!--   <img height="137px" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria30&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,90e0ef,00b4d8&theme=graywhite" /> -->
